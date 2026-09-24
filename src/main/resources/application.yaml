@@ -4,3 +4,8 @@ spring:
 
   profiles:
     active: dev
+
+  security:
+    user:
+      name: user
+      password: user123
